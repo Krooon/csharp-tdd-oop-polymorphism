@@ -1,4 +1,5 @@
-﻿using NUnit.Framework;
+﻿using Interfaces;
+using NUnit.Framework;
 using tdd_oop_polymorphism.CSharp.Main;
 
 namespace tdd_oop_polymorphism.Tests
